@@ -1,0 +1,1 @@
+Định nghĩa một interface -> của các thuật toán (các class khác nhau) có liên qua đến nhau

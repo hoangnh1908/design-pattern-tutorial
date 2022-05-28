@@ -1,0 +1,1 @@
+Khi mà muốn sửa vào model thì nó sẽ tự động show lên nhưng thứ mình sửa trong runtime
