@@ -1,3 +1,4 @@
 # design-pattern-tutorial
-I learn to Ong Dev 
-This is youtube -> https://www.youtube.com/c/%C3%94ngDev
+## I learn to Ong Dev 
+## This is youtube OngDev -> https://www.youtube.com/c/%C3%94ngDev
+## Code Java
