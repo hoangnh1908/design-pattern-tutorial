@@ -1,0 +1,2 @@
+Thường là nó chạy một lần lúc đầu và không cần khởi tạo .
+Hay được dùng để log, mấy config
