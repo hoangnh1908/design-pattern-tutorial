@@ -1,0 +1,4 @@
+Trang trí cho một cái gì đấy . 
+Ví dụ : Trà sữa 1$ 
+áp dụng Decorator vào : 
+-> Trà sữa ($1) + ( đường đen (0.2$) + thạch (0.2$) ) -> Decorator 
